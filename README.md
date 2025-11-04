@@ -1,12 +1,13 @@
 # Методы оптимизации
 
-📊 [Таблица успеваемости (Google Sheets)](https://docs.google.com/spreadsheets/d/1W362kaT0OR31QI2agju5kUoz7oExlMXDF3y1hFD7mcA/edit?usp=sharing)
+📊 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1W362kaT0OR31QI2agju5kUoz7oExlMXDF3y1hFD7mcA/edit?usp=sharing)
 
 ---
 
 ## 🔬 Лабораторная работа №1. Методы одномерной оптимизации
 
-📁 [Открыть Jupyter-отчёт](lab_1/report.ipynb)
+📁 [Открыть Jupyter-отчёт](lab_1/report.ipynb)  
+📄 [Скачать методичку (PDF)](lab_1/Методичка_ЛР1.pdf)
 
 ### 📌 Цель работы
 
